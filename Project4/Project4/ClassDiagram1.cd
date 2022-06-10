@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project4.Company">
+    <Position X="0.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAAAAAACAAAAAAAQAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project4.FirstGruzComp">
+    <Position X="5.25" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>FirstGruzComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project4.SecondGruzComp">
+    <Position X="5.25" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAACAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecondGruzComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

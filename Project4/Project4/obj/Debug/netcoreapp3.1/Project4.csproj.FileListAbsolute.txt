@@ -1,0 +1,17 @@
+D:\My Projects C#\Project4\Project4\bin\Debug\netcoreapp3.1\Project4.exe
+D:\My Projects C#\Project4\Project4\bin\Debug\netcoreapp3.1\Project4.deps.json
+D:\My Projects C#\Project4\Project4\bin\Debug\netcoreapp3.1\Project4.runtimeconfig.json
+D:\My Projects C#\Project4\Project4\bin\Debug\netcoreapp3.1\Project4.runtimeconfig.dev.json
+D:\My Projects C#\Project4\Project4\bin\Debug\netcoreapp3.1\Project4.dll
+D:\My Projects C#\Project4\Project4\bin\Debug\netcoreapp3.1\Project4.pdb
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.csproj.AssemblyReference.cache
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.Form1.resources
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.csproj.GenerateResource.cache
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.AssemblyInfoInputs.cache
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.AssemblyInfo.cs
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.csproj.CoreCompileInputs.cache
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.dll
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.pdb
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.genruntimeconfig.cache
+D:\My Projects C#\Project4\Project4\obj\Debug\netcoreapp3.1\Project4.WelcomeForm.resources
