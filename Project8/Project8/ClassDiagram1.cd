@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project4.Company">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAAAAAASAQAEAAAQAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project4.FirstGruzComp">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAACAAAAAIAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>FirstGruzComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project4.SecondGruzComp">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAACAAAAAIAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecondGruzComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
