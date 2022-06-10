@@ -1,0 +1,33 @@
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project2.Form1.resources
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project2.WelcomeForm.resources
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\mnesh\OneDrive\Рабочий стол\ПГУ\ООП\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project2.Form1.resources
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project2.WelcomeForm.resources
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\My Projects C#\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
