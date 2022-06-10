@@ -1,0 +1,17 @@
+D:\My Projects C#\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.exe
+D:\My Projects C#\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.deps.json
+D:\My Projects C#\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.runtimeconfig.json
+D:\My Projects C#\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.runtimeconfig.dev.json
+D:\My Projects C#\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.dll
+D:\My Projects C#\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.pdb
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.csproj.AssemblyReference.cache
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project4.Form1.resources
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project4.WelcomeForm.resources
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.csproj.GenerateResource.cache
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.AssemblyInfoInputs.cache
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.AssemblyInfo.cs
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.csproj.CoreCompileInputs.cache
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.dll
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.pdb
+D:\My Projects C#\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.genruntimeconfig.cache
